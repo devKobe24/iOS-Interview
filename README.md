@@ -28,6 +28,7 @@
 | 23.11.06(월) | "순환참조와 순환참조를 방지하는 방법 그리고 ARC에 대하여 설명할 수 있는가?"에 대하여 질문과 답을 인터뷰 형식으로 만들었습니다. |
 | 23.11.07(화) | "강한 순환 참조와 발생 이유, 방지하는 방법에 대하여 설명할 수 있는가?"에 대하여 질문과 답을 인터뷰 형식으로 만들었습니다. |
 | 23.11.07(화) | "Strcut는 ARC가 필요없는데 Class에서만 ARC가 필요한 이유?, 값 타입 사용시 ARC가 필요하지 않은 이유?, 값 타입과 참조 타입이란?" 에 대하여 `이재성` 님의 소중한 피드백을 받아 질문과 답을 인터뷰 형식으로 만들었습니다. |
+| 23.11.11(토) | "Stack은 어떤 자료구조일까?, 대표적인 작업은?, 스택의 목적은?, 스택이 데이터 수를 제한하는 이유는?" 에 대하여 질문과 답을 인터뷰 형식으로 만들었습니다. |
 
 ## 📖 스터디 리스트
 - [프로퍼티가 Swift에서 오류를 발생시킬 수 있는가?](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/230811.md)
@@ -36,5 +37,6 @@
 - [순환참조와 순환참조를 방지하는 방법 그리고 ARC에 대하여 설명할 수 있는가?](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231106.md)
 - [강한 순환 참조와 발생하는 이유, 방지하는 방법에 대하여 설명할 수 있는가?](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231107.md)
 - [Strcut는 ARC가 필요없는데 Class에서만 ARC가 필요한 이유는?, 값 타입 사용시 ARC가 필요하지 않은 이유?, 값 타입이란?, 참조 타입이란?](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231107(2).md)
+- [Stack은 어떤 자료구조일까?, 대표적인 작업은?, 스택의 목적은?, 스택이 데이터 수를 제한하는 이유는?](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231111.md)
 
 ## 📑 참고자료
